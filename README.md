@@ -1,64 +1,35 @@
-```markdown id="no-code-blocks"
-<h1 align="center">Gabriel Alves</h1>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00f0ff, #ff00ff, #00ff88); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent;
+               font-size: 60px;
+               font-family: 'Segoe UI', sans-serif;
+               font-weight: bold;
+               text-shadow: 0 0 20px #00f0ff, 0 0 40px #ff00ff;">
+    Gabriel Alves
+  </span>
+</h1>
 
 <p align="center">
-  Backend Developer (Java) • Future Pentester • Linux User
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" 
+       alt="Kali Linux Logo" width="150" 
+       style="filter: drop-shadow(0 0 15px #00f0ff) drop-shadow(0 0 30px #ff00ff); 
+              animation: pulse 2s infinite;">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LGA1155dev&color=00f7ff&style=flat" />
+<h3 align="center" style="color: #fff; font-family: monospace;">
+  🚀 Front-end → Back-end (Java) → Futuro Pentester
+</h3>
+
+<p align="center" style="color: #aaa; font-family: monospace;">
+  Atualmente explorando <strong>Java</strong> no back-end, usando <strong>Kali Linux</strong> para estudos de segurança.<br>
+  Objetivo: me tornar um <strong>Pentester Profissional</strong>.
 </p>
 
----
-
-## 🧠 About
-
-- **Name:** Gabriel Alves  
-- **Focus:** Backend with Java  
-- **Background:** JavaScript, HTML, CSS  
-- **System:** Kali Linux  
-- **Goal:** Pentester  
-
----
-
-## ⚡ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,linux,git" />
-</p>
-
----
-
-## 🚀 Journey
-
-Frontend → Backend → Cybersecurity
-
----
-
-## 📊 Stats
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LGA1155dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=LGA1155dev&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧠 Mindset
-
-> Discipline beats motivation.
-
----
-
-## 🔄 Current Focus
-
-- Studying Java  
-- Building backend projects  
-- Learning security  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:ff00ff&height=100&section=footer"/>
-</p>
-```
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); filter: drop-shadow(0 0 10px #00f0ff); }
+  50% { transform: scale(1.1); filter: drop-shadow(0 0 25px #ff00ff); }
+  100% { transform: scale(1); filter: drop-shadow(0 0 10px #00f0ff); }
+}
+</style>
