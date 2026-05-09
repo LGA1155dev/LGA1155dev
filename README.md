@@ -152,3 +152,6 @@ FASE 4 — CERTIFICAÇÕES 🏆
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:ED8B00&height=130&section=footer&text=Obrigado+pela+visita!+%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+
+<img width="960" height="728" alt="shortest-ever-java-class-name" src="https://github.com/user-attachments/assets/702ec88c-8a7b-4c1b-a90a-276887107fc7" />
+
