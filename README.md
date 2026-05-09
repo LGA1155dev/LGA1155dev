@@ -147,11 +147,13 @@ FASE 4 — CERTIFICAÇÕES 🏆
 
 ## ☕ Piada de Dev do Dia
 
+<img width="500" height="500" alt="shortest-ever-java-class-name" src="https://github.com/user-attachments/assets/702ec88c-8a7b-4c1b-a90a-276887107fc7" />
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&bgColor=0d1117&textColor=ED8B00&borderColor=007396&qColor=ffffff&aColor=ED8B00)
 
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:ED8B00&height=130&section=footer&text=Obrigado+pela+visita!+%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
-<img width="960" height="728" alt="shortest-ever-java-class-name" src="https://github.com/user-attachments/assets/702ec88c-8a7b-4c1b-a90a-276887107fc7" />
+
 
