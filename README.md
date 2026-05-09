@@ -57,10 +57,10 @@ Construo projetos reais em **HTML, CSS e JavaScript**, e estou no caminho de dom
 
 | 🚀 Projeto | 📝 Descrição | 🔧 Stack | 📌 Status |
 |-----------|-------------|---------|----------|
-| 🌐 **Projeto Web 01** | *Descrição do projeto aqui* | `HTML` `CSS` `JS` | ✅ Concluído |
-| 🎮 **Projeto Web 02** | *Descrição do projeto aqui* | `HTML` `CSS` `JS` | 🔧 Em progresso |
-| 📱 **Projeto Web 03** | *Descrição do projeto aqui* | `HTML` `CSS` `JS` | ✅ Concluído |
-| ☕ **Projeto Java 01** | *Primeiro projeto em Java* | `Java` | 🚧 Iniciando |
+| 🌐 **Trabalho-AI** | *Trabalho que consiste em falar sobre quais sao as melhores AI's para se usar no ensino médio* | `HTML` `CSS` `JS` | ✅ Concluído |
+| 📱 **Login-Cx** | *Uma pequena simulaçao de uma tela de login de uma agencia famosa.* | `HTML` `CSS` `JS` | 🔧 Em progresso, falta melhorar |
+| 🛒 **Mini-loja** | *Pequena simulaçao de uma loja de doces.* | `HTML` `CSS` `JS` | ✅ Concluído |
+| ☕ **WannaCry bot** | *Um modelo de intelogencia artificial feito em python usando o framework Streamlit* | `Python` | ✅ Concluído |
 
 > 💡 Clique nos projetos para ver o código completo!
 
@@ -121,9 +121,9 @@ FASE 4 — CERTIFICAÇÕES 🏆
 
 | 🏅 Conquista | 📅 |
 |---|---|
-| 🌟 Primeiro repositório no GitHub | 2024 |
-| 💻 Primeiro site completo em HTML/CSS/JS | 2024 |
-| ☕ Começou a aprender Java | 2025 |
+| 🌟 Primeiro repositório no GitHub | 2025 |
+| 💻 Primeiro site completo em HTML/CSS/JS | 2025 |
+| ☕ Começou a aprender Java | 2026 |
 | 🎯 **Meta:** Completar primeiro CTF | *Em breve* |
 | 🎯 **Meta:** Certificação eJPT | *Futuro* |
 | 🎯 **Meta:** Pentester Profissional | *Sonho grande* |
