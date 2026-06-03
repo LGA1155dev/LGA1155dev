@@ -61,7 +61,7 @@ Construo projetos reais em **HTML, CSS e JavaScript**, e estou no caminho de dom
 | ☕ **JasmineScan** | *Um portScanner feito inteiramente com java (sim JAVA) para treinar conhecimentos de redes, protocolos TCP, socket e etc* | `Java` | ✅ Concluído, mas falta melhorar... |
 | 📱 **Login-Cx** | *Uma pequena simulaçao de uma tela de login de uma agencia famosa.* | `HTML` `CSS` `JS` | 🔧 Em progresso, falta melhorar |
 | 🛒 **Mini-loja** | *Pequena simulaçao de uma loja de doces.* | `HTML` `CSS` `JS` | ✅ Concluído |
-| ☕ **WannaCry bot** | *Um modelo de intelogencia artificial feito em python usando o framework Streamlit* | `Python` | ✅ Concluído |
+| ☕ **WannaCry bot** | *Um modelo de inteligencia artificial feito em python usando o framework Streamlit* | `Python` | ✅ Concluído |
 
 > 💡 Clique nos projetos para ver o código completo!
 
