@@ -14,18 +14,16 @@
 
 ## 👾 Sobre Mim
 
-> *"O único requisito para programar é querer aprender todos os dias."*
+> *"Se o seu código possui muitos comentários, isso indica que ele nunca foi compreensível o suficiente para alguém olhar o código (nome de variáveis, métodos...) e entender..."*
 
-Oi! Sou o **Gabriel**, tenho **15 anos** e já mergulhei de cabeça no mundo da tecnologia. Desde cedo descobri que programar não é só escrever código — é **resolver problemas, criar coisas do nada e entender como o mundo digital funciona por dentro**.
+Hello World! Sou o **Gabriel**, tenho **15 anos** e já mergulhei de cabeça no mundo da tecnologia. Desde cedo descobri que programar não é só escrever código — é **resolver problemas,  criar coisas do nada e entender como o mundo digital funciona por dentro**.
 
-Construo projetos reais em **HTML, CSS e JavaScript**, e estou no caminho de dominar **Java**. Mas meu grande sonho vai além do desenvolvimento: quero me tornar um **pentester profissional**, aquele cara que as empresas chamam para encontrar as falhas **antes** que os bandidos encontrem. 🔐
+Construo projetos reais em **HTML, CSS e JavaScript**, e estou no caminho de dominar **Java**. Mas meu grande sonho vai além do desenvolvimento: quero me tornar um **pentester profissional**, um profissional que as empresas chamam para encontrar as falhas **antes** que invasores encontrem. ou até mesmo ir pra o mundo do BugBount 🔐
 
 - 🔭 Atualmente aprendendo **Java — POO e estruturas de dados**
-- 🌱 Explorando os fundamentos de **Segurança da Informação**
+- 🌱 Explorando os fundamentos de **CyberSegurança**
 - 💻 Construindo projetos com **HTML, CSS e JavaScript puro**
 - 🎯 Meta próxima: **Primeiro CTF completado no TryHackMe**
-- ⚡ Curiosidade: Comecei a programar antes de terminar o ensino fundamental!
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
