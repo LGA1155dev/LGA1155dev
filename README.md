@@ -1,7 +1,6 @@
 <a id="top"></a>
 <div align="center"><img src="https://capsule-render.vercel.app/api?  type=waving&height=150&color=0:ED8B00,50:557C94,100:22B8CF&section=header" alt="" width="70%">
-  <br>
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="140" height="140" alt="Profile picture: Kali Linux logo" align="center">Gabriel
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="140" height="140" alt="Profile picture: Kali Linux logo">Gabriel
 @LGA1155dev
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8CF&center=true&vCenter=true&width=620&height=40&lines=Estudante+de+programa%C3%A7%C3%A3o;Java+%26+Spring+Boot;Aprendendo+Angular;Linux+%26+Kali+Linux;Curious+about+cybersecurity" alt="Learning programming · Java & Spring Boot · Studying Angular.js · Linux & Kali Linux · I'm appreciate cyber security">
 <a href="#sobre"><b>👋 About</b></a>  •  <a href="#technologies"><b>🧰 Technologies</b></a>  •  <a href="#projects"><b>🚀 Projects</b></a>  •  <a href="#explorar"><b>🔎 Explore</b></a>  •  <a href="#objetivos"><b>🎯 Goals</b></a>  •  <a href="#contato"><b>📫 Contact</b></a>
