@@ -18,7 +18,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=LGA1155dev&label=Visitas&color=22b8cf&style=flat" alt="Visitas ao perfil">
+<img src="https://komarev.com/ghpvc/?username=LGA1155dev&label=Visitas&color=22b8cf&style=flat" alt="profile visits">
 
 </div>
 
