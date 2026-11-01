@@ -10,7 +10,7 @@
 
 `@LGA1155dev`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8CF&center=true&vCenter=true&width=620&height=40&lines=Student+of+programmin%C3%A7%C3%A3g;Java+%26+Spring+Boot;Learning+Angular;Linux+%26+Kali+Linux;Corious+for+cybersecrit%C3%A7y" alt="Learning programming · Java & Spring Boot · Studying Angular.js · Linux & Kali Linux · I'm appreciate cyber security">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22B8CF&center=true&vCenter=true&width=620&height=40&lines=Student+of+programming;Java+%26+Spring+Boot;Learning+Angular;Linux+%26+Kali+Linux;Corious+for+cybersecrity" alt="Learning programming · Java & Spring Boot · Studying Angular.js · Linux & Kali Linux · I'm appreciate cyber security">
 
 <br>
 
